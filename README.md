@@ -21,7 +21,7 @@ const Amr= {
         },
         
         mobileApp: {
-            crossPlatform: ["JuniorFlutter"],
+            crossPlatform: ["React Native"],
         },
       
     },
